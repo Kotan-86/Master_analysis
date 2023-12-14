@@ -4,7 +4,7 @@
 1. git init
 2. git commit -m "first commit"
 3. git branch -M main
-4. git remote add origin https://github.com/Kotan-86/Master_analysis.git
+4. git remote add origin https://github.com/Kotan-86/xxxxxx.git
 5. git push -u origin main
 
 【commit & push のやり方】
