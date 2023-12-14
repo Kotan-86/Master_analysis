@@ -1,8 +1,11 @@
 自分用にメモ
 
-【まず準備すること】
-1. git init リポジトリ名
-2. git remote add リモートリポジトリ名 リポジトリ名(https://xxxx形式)
+【新しいリポジトリの作成方法】
+1. git init
+2. git commit -m "first commit"
+3. git branch -M main
+4. git remote add origin https://github.com/Kotan-86/Master_analysis.git
+5. git push -u origin main
 
 【commit & push のやり方】
 1. git add -u ※フォルダごとの場合は、git add . 
